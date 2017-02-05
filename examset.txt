@@ -1,0 +1,6 @@
+T100:Milk,Bread,Salad,Fruit,Soup,Noodle
+T200:Beef,Bread,Salad,Fruit,Soup,Noodle
+T300:Milk,Rice,Fruit,Soup,Pork,Lamb 
+T400:Milk,Chicken,Fish,Fruit,Noodle 
+T500:Fish,Bread,Fruit,Shrimp,Soup 
+T600:Fruit,Noodle,Milk,Bread,Bean,Duck
